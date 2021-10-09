@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="TeamViewer.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8125003"
+     inkscape:cx="29.401273"
+     inkscape:cy="15.082802"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid864"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <g
+     id="TeamViewer">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <polygon
+       points="10.03,10.85 23.32,10.85 23.32,28.64 20.91,26.23 19.76,27.38 24.17,31.79 28.59,27.38 27.43,26.23 24.95,28.72 24.95,9.22 10.03,9.22 "
+       id="polygon8"
+       transform="matrix(0.50664978,0,0,0.50664978,7.881792,7.8936035)"
+       style="fill:#009eff;fill-opacity:1" />
+    <polygon
+       points="21.97,21.15 8.68,21.15 8.68,3.28 11.16,5.77 12.31,4.62 7.9,0.21 3.49,4.62 4.64,5.77 7.05,3.36 7.05,22.78 21.97,22.78 "
+       id="polygon10"
+       transform="matrix(0.50664978,0,0,0.50664978,7.881792,7.8936035)"
+       style="fill:#eff0f1;fill-opacity:1" />
+    <path
+       d="m 22.675961,5.124076 c 2.32404,0 4.2,1.875924 4.2,4.200004 v 13.349397 c 0,2.324049 -1.87596,4.200012 -4.2,4.200012 H 9.324041 C 7,26.873489 5.12404,24.997526 5.12404,22.673477 V 9.32408 C 5.12404,7 7,5.124076 9.324041,5.124076 h 13.35192 M 22.675961,4 H 9.324041 C 6.4,4 4,6.4 4,9.324081 V 22.673478 C 4,25.599999 6.4,28 9.324041,28 h 13.34945 c 2.92651,0 5.32651,-2.400001 5.32651,-5.324053 V 9.324081 C 28.000001,6.4 25.600001,4 22.675961,4 Z"
+       id="path4-3-3"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0244919;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+  </g>
+  <g
+     id="22-22-TeamViewer"
+     transform="translate(32,10.000001)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="-4.6325681e-08"
+       id="rect2" />
+    <polygon
+       points="27.43,26.23 24.95,28.72 24.95,9.22 10.03,9.22 10.03,10.85 23.32,10.85 23.32,28.64 20.91,26.23 19.76,27.38 24.17,31.79 28.59,27.38 "
+       id="polygon8-7"
+       transform="matrix(0.33776658,0,0,0.33776658,5.587866,5.595736)"
+       style="fill:#009eff;fill-opacity:1" />
+    <polygon
+       points="4.64,5.77 7.05,3.36 7.05,22.78 21.97,22.78 21.97,21.15 8.68,21.15 8.68,3.28 11.16,5.77 12.31,4.62 7.9,0.21 3.49,4.62 "
+       id="polygon10-5"
+       transform="matrix(0.33776658,0,0,0.33776658,5.587866,5.595736)"
+       style="fill:#eff0f1;fill-opacity:1" />
+    <path
+       d="m 15.450641,3.749384 c 1.54936,0 2.8,1.250616 2.8,2.800003 v 8.899598 c 0,1.549366 -1.25064,2.800008 -2.8,2.800008 H 6.549361 C 5,18.248993 3.74936,16.998351 3.74936,15.448985 V 6.549387 C 3.74936,5 5,3.749384 6.549361,3.749384 h 8.90128 M 15.450641,3 H 6.549361 C 4.6,3 3,4.6 3,6.549387 v 8.899598 C 3,17.399999 4.6,19 6.549361,19 h 8.899633 c 1.951007,0 3.551007,-1.600001 3.551007,-3.549369 V 6.549387 C 19.000001,4.6 17.400001,3 15.450641,3 Z"
+       id="path4-3-3-3"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0163279;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+  </g>
+</svg>

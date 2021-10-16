@@ -9,12 +9,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-    xmlns:svg="http://www.w3.org/2000/svg" >
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs126" />
   <sodipodi:namedview
      id="namedview124"
-     pagecolor="#9e9e9e"
+     pagecolor="#cccccc"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
@@ -31,7 +31,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg122"
      inkscape:lockguides="true"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid1924"

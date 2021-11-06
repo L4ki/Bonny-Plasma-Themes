@@ -46,3 +46,16 @@ Plasma Theme
 -------------
 
 Fixed icon: document.svg
+
+Changelog: 06.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Fixed widget: scrollbar.svg

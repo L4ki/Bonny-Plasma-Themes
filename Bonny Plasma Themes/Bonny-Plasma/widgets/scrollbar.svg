@@ -20,20 +20,20 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
-     pagecolor="#eff0f1"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.467194"
-     inkscape:cx="32.100562"
-     inkscape:cy="42.069113"
+     inkscape:zoom="3.86589"
+     inkscape:cx="34.920808"
+     inkscape:cy="44.103687"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -48,7 +48,8 @@
      guidecolor="#0000ff"
      guideopacity="0.62745098"
      guidehicolor="#ff0000"
-     guidehiopacity="0.64705882">
+     guidehiopacity="0.64705882"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        visible="true"
        enabled="true"

@@ -59,3 +59,17 @@ Plasma Theme
 -------------
 
 Fixed widget: scrollbar.svg
+
+
+Changelog: 13.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions
+
+Plasma Theme
+-------------
+
+Fixed widget: redshift.svg

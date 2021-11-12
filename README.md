@@ -72,4 +72,4 @@ Added new icons: actions
 Plasma Theme
 -------------
 
-Fixed widget: redshift.svg
+Fixed icon: redshift.svg

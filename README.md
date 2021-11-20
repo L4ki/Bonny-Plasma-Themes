@@ -85,4 +85,4 @@ Added new icons: actions
 Plasma Theme
 -------------
 
-Fixed icon: videocard.svg
+Fixed icon: video-card.svg

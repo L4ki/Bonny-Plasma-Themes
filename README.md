@@ -73,3 +73,16 @@ Plasma Theme
 -------------
 
 Fixed icon: redshift.svg
+
+Changelog: 20.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions
+
+Plasma Theme
+-------------
+
+Fixed icon: videocard.svg

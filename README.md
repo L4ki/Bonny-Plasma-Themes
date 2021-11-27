@@ -86,3 +86,16 @@ Plasma Theme
 -------------
 
 Fixed icon: video-card.svg
+
+Changelog: 28.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Fixed icon: activities.svg

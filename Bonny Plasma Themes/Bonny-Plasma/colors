@@ -105,7 +105,7 @@ ForegroundPositive=0,170,127
 ForegroundVisited=235,203,139
 
 [General]
-ColorScheme=BonnyDarkColor
+ColorScheme=Bonny-Dark-Color
 Name=Bonny-Dark-Color
 shadeSortColumn=true
 

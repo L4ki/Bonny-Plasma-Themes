@@ -99,3 +99,16 @@ Plasma Theme
 -------------
 
 Fixed icon: activities.svg
+
+Changelog: 05.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Update colors file

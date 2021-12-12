@@ -112,3 +112,16 @@ Plasma Theme
 -------------
 
 Update colors file
+
+Changelog: 12.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg

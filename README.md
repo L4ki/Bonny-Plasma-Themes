@@ -125,3 +125,16 @@ Plasma Theme
 -------------
 
 Update widget: panel-background.svg
+
+Changelog: 19.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: preferences
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg

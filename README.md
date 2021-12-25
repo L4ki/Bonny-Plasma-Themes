@@ -138,3 +138,16 @@ Plasma Theme
 -------------
 
 Update widget: busywidget.svg
+
+Changelog: 26.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Update widget: lineedit.svg

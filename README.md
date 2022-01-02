@@ -151,3 +151,16 @@ Plasma Theme
 -------------
 
 Update widget: lineedit.svg
+
+Changelog: 02.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Update widget: tabbar.svg

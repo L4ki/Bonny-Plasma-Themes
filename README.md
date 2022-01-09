@@ -164,3 +164,16 @@ Plasma Theme
 -------------
 
 Update widget: tabbar.svg
+
+Changelog: 09.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (32)
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg

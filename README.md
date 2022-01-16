@@ -177,3 +177,16 @@ Plasma Theme
 -------------
 
 Update widget: tasks.svg
+
+Changelog: 16.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (48)
+
+Plasma Theme
+-------------
+
+Update widget: checkmarks.svg

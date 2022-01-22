@@ -190,3 +190,16 @@ Plasma Theme
 -------------
 
 Update widget: checkmarks.svg
+
+Changelog: 23.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: status (16)
+
+Plasma Theme
+-------------
+
+Update widget: action-overlays.svg

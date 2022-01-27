@@ -203,3 +203,16 @@ Plasma Theme
 -------------
 
 Update widget: action-overlays.svg
+
+Changelog: 30.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: status (22)
+
+Plasma Theme
+-------------
+
+Update widget: clock.svg

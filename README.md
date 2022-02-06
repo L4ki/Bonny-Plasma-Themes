@@ -210,9 +210,24 @@ Changelog: 30.01.2022.
 Icons
 ------
 
-Added new icons: status (22)
+Added new icons: status (24, symbolic)
 
 Plasma Theme
 -------------
 
 Update widget: clock.svg
+
+Changelog: 06.02.2022.
+----------------------
+
+Icons
+------
+
+Light Icons: added new icons status (24)
+
+Dark Icons: added new icons status (symbolic)
+
+Plasma Theme
+-------------
+
+Update widgets: actionbutton.svg, slider.svg

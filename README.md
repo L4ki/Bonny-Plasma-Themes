@@ -231,3 +231,18 @@ Plasma Theme
 -------------
 
 Update widgets: actionbutton.svg, slider.svg
+
+Changelog: 13.02.2022.
+----------------------
+
+Icons
+------
+
+Light Icons: added new icons actions (32)
+
+Dark Icons: added new icons applets (256)
+
+Plasma Theme
+-------------
+
+Update widgets: button.svg

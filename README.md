@@ -247,7 +247,7 @@ Plasma Theme
 
 Update widgets: button.svg
 
-Changelog: 13.02.2022.
+Changelog: 20.02.2022.
 ----------------------
 
 Icons

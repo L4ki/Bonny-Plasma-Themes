@@ -4,7 +4,7 @@
    height="103.5"
    id="svg2396"
    sodipodi:version="0.32"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    version="1.0"
    sodipodi:docname="scrollwidget.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -273,14 +273,14 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3634469"
-     inkscape:cx="50.973749"
-     inkscape:cy="-2.2003057"
+     inkscape:zoom="1.9282051"
+     inkscape:cx="69.235373"
+     inkscape:cy="93.610374"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -289,8 +289,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:document-rotation="0"
-     inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3030"
@@ -360,7 +362,7 @@
        transform="scale(-1)" />
     <g
        id="border-top"
-       style="fill:#5d8aa8;opacity:0.05;fill-opacity:1">
+       style="opacity:0.05;fill:#5d8aa8;fill-opacity:1">
       <rect
          y="63.5"
          x="14"
@@ -379,7 +381,7 @@
     <g
        id="border-bottom"
        transform="matrix(1,0,0,-1,-0.26516506,224.53033)"
-       style="fill:#5d8aa8;opacity:0.05;fill-opacity:1">
+       style="opacity:0.05;fill:#5d8aa8;fill-opacity:1">
       <rect
          style="fill:#5d8aa8;fill-opacity:1;stroke:none"
          id="rect3828"
@@ -398,7 +400,7 @@
     <g
        transform="matrix(0,-1,-1,0,192,178)"
        id="border-left"
-       style="fill:#5d8aa8;opacity:0.05;fill-opacity:1">
+       style="opacity:0.05;fill:#5d8aa8;fill-opacity:1">
       <rect
          y="63.5"
          x="14"
@@ -417,7 +419,7 @@
     <g
        id="border-right"
        transform="rotate(-90,56,124)"
-       style="fill:#5d8aa8;opacity:0.05;fill-opacity:1">
+       style="opacity:0.05;fill:#5d8aa8;fill-opacity:1">
       <rect
          style="fill:#5d8aa8;fill-opacity:1;stroke:none"
          id="rect3848"

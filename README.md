@@ -296,7 +296,7 @@ Plasma Theme
 Update widget: scrollwidget.svg
 
 
-Changelog: 13.03.2022.
+Changelog: 20.03.2022.
 ----------------------
 
 Icons
@@ -307,3 +307,16 @@ Plasma Theme
 -------------
 
 Update icon: view.svg
+
+
+Changelog: 27.03.2022.
+----------------------
+
+Icons
+------
+Added new icons: mimetypes (22)
+
+Plasma Theme
+-------------
+
+Update icon: media.svg

@@ -320,3 +320,15 @@ Plasma Theme
 -------------
 
 Update icon: media.svg
+
+Changelog: 04.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: mimetypes (32)
+
+Plasma Theme
+-------------
+
+Update icon: redshift.svg

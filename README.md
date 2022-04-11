@@ -332,3 +332,17 @@ Plasma Theme
 -------------
 
 Update icon: redshift.svg
+
+Changelog: 11.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: mimetypes (64)
+
+Plasma Theme
+-------------
+
+Added icon: plasmavault_error.svg, plasmavault.svg
+
+Update icon: keyboard.svg, input.svg

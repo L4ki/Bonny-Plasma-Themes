@@ -346,3 +346,15 @@ Plasma Theme
 Added icon: plasmavault_error.svg, plasmavault.svg
 
 Update icon: keyboard.svg, input.svg
+
+Changelog: 18.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: devices (16, 22, 24, 64)
+
+Plasma Theme
+-------------
+
+Update icons: notification.svg, notifications.svg

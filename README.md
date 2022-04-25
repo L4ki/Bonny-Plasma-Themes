@@ -358,3 +358,19 @@ Plasma Theme
 -------------
 
 Update icons: notification.svg, notifications.svg
+
+Changelog: 25.04.2022.
+----------------------
+
+Icons
+------
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Update widgets: panel-background.svg, tooltip.svg
+
+Update dialogs: background.svg
+
+Added: opaque, solid, translucent

@@ -374,3 +374,16 @@ Update widgets: panel-background.svg, tooltip.svg
 Update dialogs: background.svg
 
 Added: opaque, solid, translucent
+
+
+Changelog: 02.05.2022.
+----------------------
+
+Icons
+------
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Update widget: scrollbar.svg

@@ -388,7 +388,7 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
-Changelog: 09.05.2022.
+Changelog: 10.05.2022.
 ----------------------
 
 Icons

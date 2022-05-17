@@ -399,3 +399,15 @@ Plasma Theme
 -------------
 
 Update icon: applications.svg
+
+Changelog: 17.05.2022.
+----------------------
+
+Icons
+------
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Update icon: klipper.svg

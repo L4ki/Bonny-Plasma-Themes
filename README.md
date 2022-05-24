@@ -417,7 +417,7 @@ Changelog: 24.05.2022.
 
 Icons
 ------
-Added new icons: actions (22
+Added new icons: actions 22
 
 Plasma Theme
 -------------

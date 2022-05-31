@@ -423,3 +423,15 @@ Plasma Theme
 -------------
 
 Update icon: cantata.svg, video.svg
+
+Changelog: 31.05.2022.
+----------------------
+
+Icons
+------
+Added new icons: actions 24
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg

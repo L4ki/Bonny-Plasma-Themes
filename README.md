@@ -446,4 +446,4 @@ Added new icons: actions 16
 Plasma Theme
 -------------
 
-Update icons: preferences, keybord, input, klipper, video, update, choqok, cantata, redshift
+Update icons: preferences, keyboard, input, klipper, video, update, choqok, cantata, redshift

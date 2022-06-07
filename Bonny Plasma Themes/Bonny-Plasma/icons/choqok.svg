@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="choqok.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,11 +25,11 @@
        id="rect2" />
     <path
        fill="none"
-       stroke-width="0.694382"
+       stroke-width="0.718237"
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-miterlimit="10"
-       d="m 19.074759,4.457626 v 9.293012 c 0,0.613278 -0.497166,1.110432 -1.110441,1.110432 h -7.706676 l -4.1186,3.791783 V 14.86107 H 4.057628 c -0.613271,0 -1.110437,-0.497154 -1.110437,-1.110432 V 4.457626 c 0,-0.613276 0.497166,-1.110435 1.110437,-1.110435 h 13.90669 c 0.613275,0 1.110441,0.497159 1.110441,1.110435 z"
+       d="m 19.640881,4.4678239 v 9.2785281 c 0,0.612321 -0.532746,1.108701 -1.189911,1.108701 H 10.192753 L 5.7793995,18.640925 V 14.855053 H 3.5490257 c -0.6571609,0 -1.1899072,-0.49638 -1.1899072,-1.108701 V 4.4678239 c 0,-0.6123204 0.5327463,-1.1087042 1.1899072,-1.1087042 H 18.45097 c 0.657165,0 1.189911,0.4963838 1.189911,1.1087042 z"
        id="path2-3"
        style="stroke:#eff0f1;stroke-opacity:1" />
     <path
@@ -93,12 +93,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="13.876971"
-     inkscape:cx="27.347467"
-     inkscape:cy="14.628553"
+     inkscape:zoom="9.8125003"
+     inkscape:cx="10.140127"
+     inkscape:cy="10.496815"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -124,11 +124,11 @@
        id="rect7" />
     <path
        fill="none"
-       stroke-width="1.04158"
+       stroke-width="1.09708"
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-miterlimit="10"
-       d="M 28.112129,6.1864432 V 20.125958 c 0,0.919917 -0.74574,1.665648 -1.665654,1.665648 H 14.886457 l -6.177896,5.687673 v -5.687673 h -3.12212 c -0.919911,0 -1.665651,-0.745731 -1.665651,-1.665648 V 6.1864432 C 3.92079,5.2665285 4.66653,4.52079 5.586441,4.52079 h 20.860034 c 0.919914,0 1.665654,0.7457385 1.665654,1.6656532 z"
+       d="M 29.45146,6.2101669 V 20.115986 c 0,0.917693 -0.829325,1.661624 -1.852358,1.661624 H 14.743339 L 7.8729674,27.451534 V 21.77761 h -3.472075 c -1.023023,0 -1.8523524,-0.743931 -1.8523524,-1.661624 V 6.2101669 C 2.54854,5.2924759 3.3778694,4.54854 4.4008924,4.54854 H 27.599102 c 1.023033,0 1.852358,0.7439359 1.852358,1.6616269 z"
        id="path2"
        style="stroke:#eff0f1;stroke-opacity:1" />
     <path

@@ -435,3 +435,15 @@ Plasma Theme
 -------------
 
 Update widget: viewitem.svg
+
+Changelog: 07.06.2022.
+----------------------
+
+Icons
+------
+Added new icons: actions 16
+
+Plasma Theme
+-------------
+
+Update icons: preferences, keybord, input, klipper, video, update, choqok, cantata, redshift

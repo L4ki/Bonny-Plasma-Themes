@@ -447,3 +447,15 @@ Plasma Theme
 -------------
 
 Update icons: preferences, keyboard, input, klipper, video, update, choqok, cantata, redshift
+
+Changelog: 14.06.2022.
+----------------------
+
+Icons
+------
+Update icons: actions 22
+
+Plasma Theme
+-------------
+
+Update icons: konv_message, konversation, update

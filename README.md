@@ -459,3 +459,8 @@ Plasma Theme
 -------------
 
 Update icons: konv_message, konversation, update
+
+Aurorae Theme "Bonny-Blur-Aurorae"
+----------------------------------
+
+Update decoration.svg (Customized for Plasma 5.25)

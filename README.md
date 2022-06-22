@@ -464,3 +464,18 @@ Aurorae Theme "Bonny-Blur-Aurorae"
 ----------------------------------
 
 Update decoration.svg (Customized for Plasma 5.25)
+
+Changelog: 22.06.2022.
+----------------------
+
+Icons
+------
+Update icons: actions 24
+
+Plasma Theme
+-------------
+
+Update icons: akregator, amarok, cantata, device, drive, kate, choqok_offline, choqok
+
+
+

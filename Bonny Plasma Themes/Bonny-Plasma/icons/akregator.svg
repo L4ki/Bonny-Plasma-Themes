@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="akregator.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.8125003"
-     inkscape:cx="35.414012"
-     inkscape:cy="9.1719742"
+     inkscape:zoom="13.876971"
+     inkscape:cx="35.34633"
+     inkscape:cy="21.222211"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,7 +49,8 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1117"
@@ -78,9 +79,10 @@
        id="path6"
        style="fill:#009eff;fill-opacity:1;stroke-width:0.189466" />
     <path
-       d="m 22.675959,5.124076 c 2.324039,0 4.2,1.875924 4.2,4.200004 v 13.349396 c 0,2.324049 -1.875962,4.200013 -4.2,4.200013 H 9.32404 c -2.32404,0 -4.2,-1.875963 -4.2,-4.200013 V 9.32408 C 5.12404,7 7,5.124076 9.32404,5.124076 H 22.675959 M 22.675959,4 H 9.32404 C 6.4,4 4,6.4 4,9.324081 V 22.673478 C 4,25.599999 6.4,28 9.32404,28 h 13.349449 c 2.926509,0 5.326509,-2.400001 5.326509,-5.324053 V 9.324081 C 27.999998,6.4 25.599999,4 22.675959,4 Z"
-       id="path4-3-3"
-       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0244919;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       d="M 22.67596,5 C 24.999999,5 27,7 27,9.32408 V 22.673477 C 27,24.997526 24.999998,27 22.67596,27 H 9.32404 C 7,27 5,24.997049 5,22.673 V 9.32408 C 5,7 7,5 9.32404,5 h 13.35192 m 0,-1 H 9.32404 C 6.4,4 4,6.4 4,9.324081 V 22.673478 C 4,25.599999 6.4,28 9.32404,28 h 13.34945 c 2.926509,0 5.326509,-2.400001 5.326509,-5.324053 V 9.324081 C 27.999999,6.4 25.599999,4 22.67596,4 Z"
+       id="path4-3-36"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0244919;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       sodipodi:nodetypes="cssssssscsssssssss" />
   </g>
   <g
      id="22-22-akregator"
@@ -105,8 +107,9 @@
        id="path6-5"
        style="fill:#009eff;fill-opacity:1;stroke-width:0.126311" />
     <path
-       d="m 15.450639,3.749384 c 1.54936,0 2.8,1.250616 2.8,2.800003 v 8.899597 c 0,1.549366 -1.250641,2.800009 -2.8,2.800009 H 6.54936 c -1.54936,0 -2.8,-1.250642 -2.8,-2.800009 V 6.549387 C 3.74936,5 5,3.749384 6.54936,3.749384 h 8.901279 M 15.450639,3 H 6.54936 C 4.6,3 3,4.6 3,6.549387 v 8.899598 C 3,17.399999 4.6,19 6.54936,19 h 8.899633 c 1.951006,0 3.551006,-1.600001 3.551006,-3.549369 V 6.549387 C 18.999999,4.6 17.399999,3 15.450639,3 Z"
-       id="path4-3-3-3"
-       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0163279;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       d="m 15.251001,3.9999969 c 1.549358,0 2.748999,1.199613 2.748999,2.749 v 8.5000001 c 0,1.549366 -1.199641,2.751 -2.748999,2.751 H 6.749 C 5.19964,17.999997 4,16.798363 4,15.248997 V 6.7489969 c 0,-1.549387 1.19964,-2.749 2.749,-2.749 h 8.502001 m 0.199638,-1 H 6.54936 C 4.6,2.9999969 3,4.5999969 3,6.5493839 v 8.8995981 c 0,1.951014 1.6,3.551015 3.54936,3.551015 h 8.899634 C 17.399998,18.999997 19,17.399996 19,15.450628 V 6.5493839 c 0,-1.949387 -1.600001,-3.549387 -3.549361,-3.549387 z"
+       id="path4-3-3-7"
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0163279;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       sodipodi:nodetypes="cssssssscsssssssss" />
   </g>
 </svg>

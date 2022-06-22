@@ -2,11 +2,11 @@
 <svg
    version="1.1"
    id="svg2"
-   viewBox="0 0 22 22"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   viewBox="0 0 32 32"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="cantata.svg"
-   width="22"
-   height="22"
+   width="32"
+   height="32"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,7 +15,8 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <g
-     id="22-22-cantata">
+     id="22-22-cantata"
+     transform="translate(32,10)">
     <path
        id="path11"
        d="M 0,0 V 22 H 22 V 0 Z"
@@ -45,7 +46,7 @@
        d="M 11.214121,3.6464999 V 14.245094 c -0.813459,-0.346591 -1.7580729,-0.252922 -2.7650843,0.159321 -1.6856239,0.689364 -2.6521341,2.200504 -2.1597029,3.375419 0.4924292,1.175305 2.2595249,1.570629 3.9455402,0.880885 1.329966,-0.545442 2.144496,-1.962896 2.144496,-2.816921 V 7.4848695 c 0,0 3.110488,0.3834488 3.110488,3.4541355 0,2.303021 -0.778145,3.071818 -2.721427,4.990997 1.943282,-1.151507 3.497632,-2.687976 3.497632,-4.990997 0,-3.0706867 -2.399227,-4.4516191 -3.013689,-5.0584548 C 12.86371,5.4967104 12.37937,4.0307107 12.37937,4.0307107 Z"
        style="fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:0.965609" />
     <path
-       d="M 15.450619,4 C 16.620982,4 18,5 18,6.4384691 V 15.05995 C 18,16.562594 16.618921,18 15.450619,18 H 6.5493834 C 5.4036161,18 4,16.56827 4,15.05995 V 6.4384691 C 4,5 5.3760552,4 6.5493834,4 h 8.9012356 m 0,-1 H 6.5493834 C 4.6000001,3 3,4.55 3,6.4384691 V 15.56 C 3,17.450049 4.6000001,19 6.5493834,19 H 15.448982 C 17.4,19 19,17.448464 19,15.56 V 6.4384691 C 19,4.55 17.4,3 15.450619,3 Z"
+       d="M 15.450619,4 C 16.620982,4 18,5 18,6.4384691 V 15.05995 C 18,16.562594 16.719302,18 15.551,18 H 6.449 C 5.3032327,18 4,16.56827 4,15.05995 V 6.4384691 C 4,5 5.3760552,4 6.5493834,4 h 8.9012356 m 0,-1 H 6.5493834 C 4.6000001,3 3,4.55 3,6.4384691 V 15.56 C 3,17.450049 4.6000001,19 6.5493834,19 H 15.448982 C 17.4,19 19,17.448464 19,15.56 V 6.4384691 C 19,4.55 17.4,3 15.450619,3 Z"
        id="path4-9"
        style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0160705;stroke-linejoin:round;stroke-miterlimit:1.41421"
        sodipodi:nodetypes="cssssssscsssssssss" />
@@ -60,12 +61,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="-6.4238853"
-     inkscape:cy="4.6021865"
+     inkscape:cx="29.099242"
+     inkscape:cy="15.820016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -73,12 +74,13 @@
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid838"
-       originx="-32"
-       originy="-10" />
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata20">
@@ -98,8 +100,7 @@
        type="text/css" />
   </defs>
   <g
-     id="cantata"
-     transform="translate(-32,-10)">
+     id="cantata">
     <path
        id="path18"
        d="M 0,0 V 32 H 32 V 0 Z"
@@ -129,7 +130,7 @@
        d="m 16.321182,5 v 16.393802 c -1.220189,-0.536104 -2.637111,-0.391216 -4.147627,0.246437 -2.5284362,1.066302 -3.9782012,3.403718 -3.2395545,5.221064 0.7386439,1.817951 3.3892865,2.429434 5.9183095,1.362547 1.994951,-0.843687 3.216744,-3.03619 3.216744,-4.357188 v -12.92951 c 0,0 4.665729,0.593115 4.665729,5.342825 0,3.56229 -1.167212,4.751456 -4.08214,7.720023 2.914928,-1.781139 5.246449,-4.157733 5.246449,-7.720023 0,-4.74971 -3.59884,-6.885722 -4.52053,-7.82437 -0.582997,-0.59372 -1.309508,-2.8613134 -1.309508,-2.8613134 z"
        style="fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:1.47083" />
     <path
-       d="M 22.876,5 C 25.20007,5 27,6.899919 27,9.224 V 22.673472 C 27,24.997547 24.999999,27 22.675929,27 H 9.324075 C 7,27 5,24.997547 5,22.673472 V 9.224 C 5,6.899919 6.799925,5 9.124,5 H 22 M 22.776,4 H 9.224 C 5.899925,4 4,6 4,9.324081 V 22.973 C 4,25.899527 6.4,28 9.324075,28 h 13.349398 c 2.926526,0 5.326526,-2.199925 5.326526,-5.124 V 9.324081 C 27.999999,6 26.100071,4 22.776,4 Z"
+       d="M 22.776,5 C 25.10007,5 27,6.899919 27,9.224 V 22.673472 C 27,24.997547 24.80007,27 22.476,27 H 9.424 C 7.099925,27 5,24.997547 5,22.673472 V 9.224 C 5,6.899919 6.899925,5 9.224,5 H 22 M 22.776,4 H 9.224 C 5.899925,4 4,6 4,9.324081 V 22.973 C 4,25.899527 6.4,28 9.324075,28 h 13.349398 c 2.926526,0 5.326526,-2.199925 5.326526,-5.124 V 9.324081 C 27.999999,6 26.100071,4 22.776,4 Z"
        id="path4"
        style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0244913;stroke-linejoin:round;stroke-miterlimit:1.41421"
        sodipodi:nodetypes="cssssssscsssssssss" />

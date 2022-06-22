@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="amarok.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,9 +21,10 @@
        d="M 0,0 V 22 H 22 V 0 Z"
        id="path4" />
     <path
-       d="m 15.45064,3.749384 c 1.549359,0 2.8,1.250616 2.8,2.800003 v 8.899598 c 0,1.549366 -1.250641,2.800008 -2.8,2.800008 H 6.54936 c -1.54936,0 -2.8,-1.250642 -2.8,-2.800008 V 6.549387 C 3.74936,5 5,3.749384 6.54936,3.749384 h 8.90128 M 15.45064,3 H 6.54936 C 4.6,3 3,4.6 3,6.549387 v 8.899598 C 3,17.399999 4.6,19 6.54936,19 h 8.899633 c 1.951006,0 3.551006,-1.600001 3.551006,-3.549369 V 6.549387 C 18.999999,4.6 17.399999,3 15.45064,3 Z"
+       d="M 15.251,4 C 16.800359,4 18,5.199613 18,6.749 v 8.5 C 18,16.798366 16.800359,18 15.251,18 H 6.749 C 5.19964,18 4,16.798366 4,15.249 v -8.5 C 4,5.199613 5.19964,4 6.749,4 h 8.502 M 15.45064,3 H 6.54936 C 4.6,3 3,4.6 3,6.549387 v 8.899598 C 3,17.399999 4.6,19 6.54936,19 h 8.899633 c 1.951006,0 3.551006,-1.600001 3.551006,-3.549369 V 6.549387 C 18.999999,4.6 17.399999,3 15.45064,3 Z"
        id="path4-3-3"
-       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0163279;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0163279;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       sodipodi:nodetypes="cssssssscsssssssss" />
     <path
        style="color:#d5c289;fill:#eff0f1;fill-opacity:1;stroke-width:0.722867"
        class="ColorScheme-Text"
@@ -38,9 +39,10 @@
        d="M -32,-10.000001 V 22 H 0 v -32.000001 z"
        id="path7" />
     <path
-       d="m -9.32404,-4.875925 c 2.324039,0 4.2,1.875924 4.2,4.200004 v 13.349397 c 0,2.324049 -1.875962,4.200012 -4.2,4.200012 h -13.35192 c -2.32404,0 -4.2,-1.875963 -4.2,-4.200012 V -0.675921 c 0,-2.32408 1.87596,-4.200004 4.2,-4.200004 h 13.35192 m 0,-1.124076 h -13.35192 c -2.92404,0 -5.32404,2.4 -5.32404,5.324081 v 13.349397 c 0,2.926521 2.4,5.326522 5.32404,5.326522 h 13.34945 c 2.926509,0 5.326509,-2.400001 5.326509,-5.324053 V -0.67592 c 0,-2.924081 -2.4,-5.324081 -5.324039,-5.324081 z"
+       d="m -9.32404,-5.000001 c 2.324039,0 4.32404,2 4.32404,4.32408 v 13.349397 c 0,2.324049 -2.000002,4.326523 -4.32404,4.326523 H -22.67596 C -25,16.999999 -27,14.997048 -27,12.672999 v -13.34892 c 0,-2.32408 2,-4.32408 4.32404,-4.32408 h 13.35192 m 0,-1 h -13.35192 c -2.92404,0 -5.32404,2.4 -5.32404,5.324081 v 13.349397 c 0,2.926521 2.4,5.326522 5.32404,5.326522 h 13.34945 c 2.926509,0 5.326509,-2.400001 5.326509,-5.324053 V -0.67592 c 0,-2.924081 -2.4,-5.324081 -5.324039,-5.324081 z"
        id="path4-3"
-       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0244919;stroke-linejoin:round;stroke-miterlimit:1.41421" />
+       style="clip-rule:evenodd;fill:#eff0f1;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0244919;stroke-linejoin:round;stroke-miterlimit:1.41421"
+       sodipodi:nodetypes="cssssssscsssssssss" />
     <path
        style="color:#d5c289;fill:#eff0f1;fill-opacity:1;stroke-width:1.0843"
        class="ColorScheme-Text"
@@ -105,20 +107,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="9.8125"
-     inkscape:cx="28.789809"
-     inkscape:cy="11.719745"
+     inkscape:cx="30.828025"
+     inkscape:cy="19.464968"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid889"

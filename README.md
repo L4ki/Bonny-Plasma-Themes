@@ -477,5 +477,16 @@ Plasma Theme
 
 Update icons: akregator, amarok, cantata, device, drive, kate, choqok_offline, choqok
 
+Changelog: 29.06.2022.
+----------------------
 
+Icons
+------
+
+Update icons: actions 16
+
+Plasma Theme
+-------------
+
+Update icon: update.svg
 

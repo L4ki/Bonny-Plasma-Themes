@@ -490,3 +490,16 @@ Plasma Theme
 
 Update icon: update.svg
 
+Changelog: 19.07.2022.
+----------------------
+
+Icons
+------
+
+Update icons: actions 22
+
+Plasma Theme
+-------------
+
+Update icon: TeamViewer.svg
+

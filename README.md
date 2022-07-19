@@ -496,7 +496,7 @@ Changelog: 19.07.2022.
 Icons
 ------
 
-Update icons: actions 22
+Added new icons: actions 22
 
 Plasma Theme
 -------------

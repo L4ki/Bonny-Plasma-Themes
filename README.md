@@ -503,3 +503,21 @@ Plasma Theme
 
 Update icon: TeamViewer.svg
 
+Changelog: 26.07.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 24
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+Aurorae Theme "Bonny-Aurorae"
+-----------------------------
+
+Update: decoration.svg
+

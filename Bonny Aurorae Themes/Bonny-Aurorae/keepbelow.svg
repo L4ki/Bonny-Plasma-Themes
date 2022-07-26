@@ -16,7 +16,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#e7e7e7"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -27,10 +27,10 @@
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      id="namedview32"
-     showgrid="false"
-     inkscape:zoom="4.2083333"
-     inkscape:cx="57.861387"
-     inkscape:cy="34.930693"
+     showgrid="true"
+     inkscape:zoom="5.951482"
+     inkscape:cx="70.486645"
+     inkscape:cy="42.174369"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,8 +49,8 @@
        opacity="0.01960784"
        empcolor="#0000ff"
        empopacity="0.03921569"
-       originx="-26.000053"
-       originy="5.9999946"
+       originx="-26.000052"
+       originy="5.9999952"
        spacingx="1"
        spacingy="1" />
   </sodipodi:namedview>
@@ -482,7 +482,7 @@
   </g>
   <g
      id="hover-inactive-center"
-     transform="translate(78)">
+     transform="translate(78.000004)">
     <rect
        y="-3.5889697e-15"
        x="-1.8530274e-07"

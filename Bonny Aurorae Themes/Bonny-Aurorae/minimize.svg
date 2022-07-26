@@ -16,7 +16,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#c4c4c4"
      bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
@@ -27,7 +27,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      id="namedview32"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="5.9514821"
      inkscape:cx="53.684107"
      inkscape:cy="19.322918"

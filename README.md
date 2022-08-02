@@ -521,3 +521,16 @@ Aurorae Theme "Bonny-Aurorae"
 
 Update: decoration.svg
 
+Changelog: 02.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 16
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+

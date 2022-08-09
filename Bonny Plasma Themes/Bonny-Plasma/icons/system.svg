@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="system.svg"
    viewBox="0 0 32 32"
    id="svg2"
@@ -26,14 +26,14 @@
      showguides="false"
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="32.25"
-     inkscape:cx="171.5"
+     inkscape:cx="172"
      inkscape:zoom="2"
      showgrid="false"
      id="namedview78"
-     inkscape:window-height="967"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -44,7 +44,8 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      inkscape:showpageshadow="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        id="grid885"
        type="xygrid"
@@ -1456,7 +1457,7 @@
      id="g64-7"
      transform="matrix(0.05508475,0,0,0.05508475,143.054,2.2053)" />
   <g
-     id="22-22-system-lock-screen"
+     id="g553"
      transform="matrix(0.02434276,0,0,0.02434276,126.94713,183.67161)" />
   <g
      id="system-suspend">
@@ -1691,7 +1692,7 @@
        style="fill:url(#linearGradient992);fill-opacity:1;stroke-width:0.0160848;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
   </g>
   <g
-     id="22-22-lock-screen">
+     id="22-22-system-lock-screen">
     <path
        style="fill:none"
        d="m 236,32 v 22 h 22 V 32 Z"

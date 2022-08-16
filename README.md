@@ -547,3 +547,16 @@ Plasma Theme
 
 Update icons: bookmarks.svg, system.svg
 
+Changelog: 16.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 24
+
+Plasma Theme
+-------------
+
+Added new icon: kruler.svg
+

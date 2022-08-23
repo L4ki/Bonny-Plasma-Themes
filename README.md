@@ -560,3 +560,16 @@ Plasma Theme
 
 Added new icon: kruler.svg
 
+Changelog: 23.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: mimetypes
+
+Plasma Theme
+-------------
+
+Update widget: action-overlays.svg
+

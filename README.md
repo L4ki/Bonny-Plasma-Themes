@@ -573,3 +573,16 @@ Plasma Theme
 
 Update widget: action-overlays.svg
 
+Changelog: 30.08.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 16
+
+Plasma Theme
+-------------
+
+Update widget: containment-controls.svg
+

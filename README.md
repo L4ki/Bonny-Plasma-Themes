@@ -612,3 +612,17 @@ Plasma Theme
 
 Update widget: background.svg
 
+Changelog: 20.09.2022.
+----------------------
+
+Icons
+------
+
+Update icons: places
+
+Plasma Theme
+-------------
+
+Update widget: actionbuttonsvg
+
+

@@ -625,4 +625,17 @@ Plasma Theme
 
 Update widget: actionbuttonsvg
 
+Changelog: 27.09.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Plasma Theme
+-------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
 

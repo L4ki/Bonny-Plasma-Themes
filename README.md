@@ -639,3 +639,17 @@ Plasma Theme
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 
+Changelog: 04.10.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Update widget: calendar.svg
+
+

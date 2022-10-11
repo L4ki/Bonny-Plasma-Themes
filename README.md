@@ -652,4 +652,17 @@ Plasma Theme
 
 Update widget: calendar.svg
 
+Changelog: 11.10.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions
+
+Plasma Theme
+-------------
+
+Added new icons: audacious.svg, juk.svg
+
 

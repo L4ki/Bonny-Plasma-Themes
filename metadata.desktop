@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Bonny-Global Look And Feel
+Name=Bonny-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Bonny-Global
+X-KDE-PluginInfo-Version=6.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1613711,kns://plasma-themes.knsrc/api.kde-look.org/1613724,kns://aurorae.knsrc/api.kde-look.org/1613709,kns://icons.knsrc/api.kde-look.org/1613717,kns://icons.knsrc/api.kde-look.org/1613713,kns://wallpaper.knsrc/api.kde-look.org/1613703,kns://wallpaper.knsrc/api.kde-look.org/1544383,kns://sddmtheme.knsrc/api.kde-look.org/1613707

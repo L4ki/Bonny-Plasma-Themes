@@ -665,4 +665,17 @@ Plasma Theme
 
 Added new icons: audacious.svg, juk.svg
 
+Changelog: 18.10.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions 22
+
+Plasma Theme
+-------------
+
+Update widget: scrollbar.svg
+
 

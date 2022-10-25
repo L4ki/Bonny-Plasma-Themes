@@ -689,6 +689,6 @@ Added new icons: actions 16
 Plasma Theme
 -------------
 
-Update widget: line.svg
+Added icon: emblem.svg
 
 

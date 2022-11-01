@@ -692,3 +692,17 @@ Plasma Theme
 Added icon: emblem.svg
 
 
+Changelog: 01.11.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Added icons: kup.svg, kleopatra.svg
+
+

@@ -705,4 +705,17 @@ Plasma Theme
 
 Added icons: kup.svg, kleopatra.svg
 
+Changelog: 08.11.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: tools.svg
+
 

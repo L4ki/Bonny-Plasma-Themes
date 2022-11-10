@@ -716,6 +716,6 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-Added icons: tools.svg
+Added icon: tools.svg
 
 

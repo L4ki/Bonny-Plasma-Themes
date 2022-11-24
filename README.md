@@ -732,3 +732,17 @@ Plasma Theme
 Added icon: face.svg
 
 
+Changelog: 24.11.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: knotes.svg
+
+

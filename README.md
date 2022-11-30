@@ -746,3 +746,17 @@ Plasma Theme
 Added icon: knotes.svg
 
 
+Changelog: 01.12.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icons: office.svg, plasma.svg
+
+

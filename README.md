@@ -1,6 +1,8 @@
 # Bonny-Plasma-Themes
 Bonny Themes For Plasma Desktop
 
+Wallpaper [COLOR="#5e81ac"] [B]Dexy-Abstract-Wallpapers[/B] [/COLOR] : [url=https://www.pling.com/p/1963955/][COLOR="red"] Here [/COLOR][/url]
+
 Changelog: 16.10.2021
 ---------------------
 

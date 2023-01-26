@@ -813,4 +813,17 @@ Plasma Theme
 
 Added icon: zoom.svg
 
+Changelog: 26.01.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: cadence.svg
+
 

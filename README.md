@@ -865,4 +865,17 @@ Plasma Theme
 
 Added icon: org.rnd2.cpupower_gui.svg
 
+Changelog: 13.04.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: desktop.svg
+
 

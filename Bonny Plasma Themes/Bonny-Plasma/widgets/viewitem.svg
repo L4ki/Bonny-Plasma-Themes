@@ -5,7 +5,7 @@
    version="1.0"
    id="svg184"
    sodipodi:docname="viewitem.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1002"
      id="namedview186"
      showgrid="false"
      inkscape:zoom="1.4584077"
-     inkscape:cx="161.13464"
-     inkscape:cy="92.223866"
+     inkscape:cx="129.59339"
+     inkscape:cy="92.223869"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,7 +48,8 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1102"
@@ -376,7 +377,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <path
-     style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1;stroke-width:1"
+     style="color:#3daee6;opacity:0.5;fill:#5d8aa8;fill-opacity:1;stroke-width:1"
      inkscape:connector-curvature="0"
      d="m 270.00001,21.00005 v 48 h 48 v -48 z"
      class="ColorScheme-Highlight"
@@ -384,7 +385,7 @@
   <g
      transform="matrix(0.99999999,0,0,3,78.860008,-2468.5798)"
      id="selected+hover-left"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1"
        inkscape:connector-curvature="0"
@@ -395,7 +396,7 @@
   <g
      transform="translate(78.859998,-809.86)"
      id="selected+hover-topleft"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1;stroke-width:3"
        d="M 59,21 C 52.352,21 47,26.352 47,33 H 59 Z"
@@ -406,7 +407,7 @@
   <g
      transform="matrix(0.3664122,0,0,0.99999999,200.33039,-809.85996)"
      id="selected+hover-top"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1"
        inkscape:connector-curvature="0"
@@ -417,7 +418,7 @@
   <g
      transform="matrix(1.4999981,0,0,1.4999981,-164.70938,-1222.7882)"
      id="selected+hover-topright"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1;stroke-width:0.666666"
        d="m 322.47333,825.86 v 2.66666 H 325.14 c 0,-1.47733 -1.18934,-2.66666 -2.66667,-2.66666 z"
@@ -427,7 +428,7 @@
   <g
      transform="matrix(0.99999999,0,0,3,-2.139997,-2468.5798)"
      id="selected+hover-right"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1"
        inkscape:connector-curvature="0"
@@ -438,7 +439,7 @@
   <g
      transform="rotate(180,254.57002,449.93006)"
      id="selected+hover-bottomright"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1;stroke-width:3"
        d="m 77,51 v 12 c 6.648,0 12,-5.352 12,-12 z"
@@ -449,7 +450,7 @@
   <g
      transform="matrix(-0.3664122,0,0,-0.99999999,387.66965,899.86005)"
      id="selected+hover-bottom"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1"
        inkscape:connector-curvature="0"
@@ -460,7 +461,7 @@
   <g
      transform="rotate(180,295.07,449.93004)"
      id="selected+hover-bottomleft"
-     style="opacity:1">
+     style="opacity:0.5;fill:#5d8aa8;fill-opacity:1">
     <path
        style="color:#3daee6;opacity:1;fill:#5d8aa8;fill-opacity:1;stroke-width:3"
        d="m 47,51 c 0,6.648 5.352,12 12,12 V 51 Z"

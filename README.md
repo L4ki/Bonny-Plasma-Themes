@@ -932,4 +932,17 @@ Plasma Theme
 
 Update widget: viewitem.svg
 
+Changelog: 21.05.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: panel-background.svg
+
 

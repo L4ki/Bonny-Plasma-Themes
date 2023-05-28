@@ -945,4 +945,17 @@ Plasma Theme
 
 Update widget: panel-background.svg
 
+Changelog: 28.05.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: antimicro.svg
+
 

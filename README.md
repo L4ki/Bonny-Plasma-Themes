@@ -1003,3 +1003,16 @@ Plasma Theme
 
 Update: metadata.desktop
 
+Changelog: 25.06.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: accessories.svg
+

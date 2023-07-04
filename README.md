@@ -1016,3 +1016,17 @@ Plasma Theme
 
 Added icon: accessories.svg
 
+Changelog: 04.07.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: slider.svg
+
+

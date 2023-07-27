@@ -1056,3 +1056,17 @@ Plasma Theme
 
 Added icon: distribute.svg
 
+
+Changelog: 27.07.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32
+
+Plasma Theme
+-------------
+
+Added widget: radiobutton.svg
+

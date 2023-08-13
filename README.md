@@ -1083,3 +1083,18 @@ Plasma Theme
 
 Added widget: analog_meter.svg
 
+
+Changelog: 13.08.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32
+
+Plasma Theme
+-------------
+
+Added widget: monitor.svg
+
+

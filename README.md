@@ -1175,5 +1175,18 @@ Plasma Theme
 
 Added widget: notes.svg
 
+Changelog: 03.10.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: picker.svg
+
 
 

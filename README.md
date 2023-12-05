@@ -1254,3 +1254,18 @@ Plasma Theme
 
 Added icon: widget.svg
 
+Changelog: 05.12.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: image.svg
+
+
+

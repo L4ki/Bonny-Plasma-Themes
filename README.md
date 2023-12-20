@@ -1280,5 +1280,23 @@ Plasma Theme
 
 Update widget: arrows.svg
 
+Changelog: 20.12.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
+
 
 

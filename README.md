@@ -1298,5 +1298,19 @@ Aurorae Themes
 
 Update: shade.svg
 
+Changelog: 27.12.2023.
+----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: transform.svg
+
+
 
 
